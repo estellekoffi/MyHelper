@@ -1,0 +1,9 @@
+git clone lien_du_projet: pour cloner un nouveau lien_du_projet
+git init : Dans le repertoire du projet pour initialiaser un nouveau projet
+git add --all: pour enregistrer les nouvelles modifications
+git commit -m "message" : garder en memoire la derniere modification
+git push : pour mettre le projet en ligne
+git pull : pour recuperer un projet deja en ligne
+git branch nom_de_la_nouvelle_branche : pour creer une nouvelle branche
+git checkout nom_de_la_branche : pour basculer sur une branche
+git merge nom_de_la_branche : pour mettre une branche au meme niveau si une est la base de l'autre
